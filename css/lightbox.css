@@ -1,0 +1,11 @@
+#img-lightbox .modal-backdrop.in {
+	background: red;
+}
+
+#img-lightbox .modal-content {
+	border-radius: 0;
+}
+
+#img-lightbox .modal-body {
+	padding: 0;
+}
